@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1499787891 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\main.cpp
+	<iostream>
+	<string.h>
+	<allegro.h>
+	<list>
+	<time.h>
+	"listeforme.h"
+	"murbrique.h"
+	"raquette.h"
+	"balle.h"
+	"listeballe.h"
+
+1496589235 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\bouton.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<allegro.h>
+	"bouton.h"
+
+1496589222 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\bouton.h
+	<string.h>
+	"rectangle.h"
+
+1496589169 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\rectangle.h
+	"point.h"
+	"forme.h"
+
+1495388606 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\point.h
+
+1495707333 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\forme.h
+	"listeforme.h"
+
+1495722278 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\listeforme.h
+	<list>
+
+1495120210 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\forme.cpp
+	<iostream>
+	<string.h>
+	<list>
+	"forme.h"
+
+1495707180 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\listeforme.cpp
+	<iostream>
+	<string.h>
+	<list>
+	"listeforme.h"
+	"forme.h"
+
+1496589570 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\menu.h
+	"bouton.h"
+
+1496589570 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\menu.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<allegro.h>
+	"menu.h"
+
+1495388644 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\point.cpp
+	<iostream>
+	<string.h>
+	<list>
+	"point.h"
+
+1496590113 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\rectangle.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<allegro.h>
+	"rectangle.h"
+
+1496590164 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<allegro.h>
+	"brique.h"
+
+1496665632 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique.h
+	"rectangle.h"
+	"balle.h"
+	"raquette.h"
+
+1496589169 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique1.cpp
+	<iostream>
+	<allegro.h>
+	"brique1.h"
+
+1496589169 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique1.h
+	"brique.h"
+
+1496589850 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique3.cpp
+	<iostream>
+	<allegro.h>
+	"brique3.h"
+
+1496589169 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique3.h
+	"brique.h"
+
+1496590063 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique2.cpp
+	<iostream>
+	<allegro.h>
+	"brique2.h"
+
+1496589169 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\brique2.h
+	"brique.h"
+
+1496844167 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\murbrique.cpp
+	<iostream>
+	<list>
+	<allegro.h>
+	<time.h>
+	"murbrique.h"
+	"brique1.h"
+	"brique2.h"
+	"brique3.h"
+	"briquebonus.h"
+
+1496669856 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\murbrique.h
+	"forme.h"
+	"brique.h"
+	"balle.h"
+
+1496664886 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\raquette.h
+	"rectangle.h"
+	"balle.h"
+
+1496747729 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\raquette.cpp
+	<iostream>
+	<allegro.h>
+	"raquette.h"
+
+1497447236 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\balle.cpp
+	<iostream>
+	<allegro.h>
+	<time.h>
+	"balle.h"
+
+1496741856 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\balle.h
+	"cercle.h"
+
+1496587647 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\cercle.h
+	"point.h"
+	"forme.h"
+
+1496587550 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\cercle.cpp
+	<iostream>
+	<string.h>
+	<allegro.h>
+	<math.h>
+	"cercle.h"
+
+1496741662 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\listeballe.cpp
+	<iostream>
+	<list>
+	<allegro.h>
+	<time.h>
+	"listeballe.h"
+
+1496741662 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\listeballe.h
+	"murbrique.h"
+
+1496859688 source:c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\briquebonus.cpp
+	<iostream>
+	<allegro.h>
+	<list>
+	"briquebonus.h"
+	"listeballe.h"
+
+1496589169 c:\users\amaur\documents\iut amiens\semestre 2\programmation orientée objet\projet\briquebonus.h
+	"brique.h"
+
